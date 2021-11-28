@@ -16,12 +16,19 @@
 利用手机自带浏览器扫码下载，或者手机浏览器搜索**“Hamibot”**，进入其网址[https://hamibot.com/](https://hamibot.com/)下载。
 
 ## 2.2 手机操作
-（1）打开软件，前往控制台
+（1）首先需要在手机上进行授权，以华为为例：
+
+- 无障碍快捷方式设置成Hamibot
+- 已安装的服务中，找到Hamibot，然后打开即可：
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/75988bb54757453cb500b2fc5a7c2431.png)
+
+（2）打开软件，前往控制台
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/afd52fdc82e046f2822e24ad95d4f5d1.png)
-（2）注册账号
+（3）注册账号
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/c34adf5674a942f791747830418602de.jpg?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5rSb5YWLLeadjg==,size_20,color_FFFFFF,t_70,g_se,x_16)
 
-（3）新增机器人
+（4）新增机器人
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/ae25bce77efd4826b26b9b865d45f733.png)
 添加机器人后，会看到匹配码：
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/1bcfec9a094c4492b0c5e970cf33d6cc.png)
@@ -29,17 +36,18 @@
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/4ce0f0b3f74449a18f26c135bcb0d28b.png)
 成功添加机器人后，就可以开始安装脚本市场中的脚本了。
 
-（4）安装脚本：去脚本市场，找到我发布的“芭芭农场”脚本
+（5）安装脚本：去脚本市场，找到我发布的“芭芭农场”脚本
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/d49fabf6240d4d259411d0a055c6f924.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5rSb5YWLLeadjg==,size_20,color_FFFFFF,t_70,g_se,x_16)
 脚本图标为：
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/c3d36b4198524c82abddef93581567a0.png)
 
-（5）运行脚本：**安装脚本之后，点击运行，然后后台切回到支付宝首页**
+（6）运行脚本：**安装脚本之后，点击运行，然后后台切回到支付宝首页**
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/ed6bf0561dc045b2bc6cdd11a0b22cf0.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5rSb5YWLLeadjg==,size_20,color_FFFFFF,t_70,g_se,x_16)
 
 
-（6）运行结果：在运行脚本后，回到支付宝主页面，它就会自动操作手机了
-![请添加图片描述](https://img-blog.csdnimg.cn/386b7d7443be41d9bf8beefd0bb70991.gif)
+（7）运行结果：在运行脚本后，回到支付宝主页面，它就会自动操作手机了
+![请添加图片描述](https://img-blog.csdnimg.cn/10d5ff6cb6da4b04b6fd2be646a7cd70.gif)
+
 
 # 3.自定义脚本
 当然，你也可以学习JS语言，进行自定义脚本编辑，自动操控手机。而且代码编写在电脑端完成，调试可以直接在手机端上完成。
